@@ -1,5 +1,4 @@
 # W3B_GearBoxCDP_ContractReview
-# README for CDPVault Smart Contract
 
 | Client | Gearbox Protocol |
 | :------------- | :---------------------------------------------- |
