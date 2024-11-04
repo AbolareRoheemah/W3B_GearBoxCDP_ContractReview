@@ -1,4 +1,4 @@
-# W3B_GearBoxCDP_ContractReview
+# W3B_GearBoxCDPVault_ContractReview
 
 | Client | Gearbox Protocol |
 | :------------- | :---------------------------------------------- |
