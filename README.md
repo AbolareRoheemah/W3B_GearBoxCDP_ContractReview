@@ -1,7 +1,5 @@
-# W3B_GearBoxCDPVault_ContractReview
+# W3B_CDPVault_ContractReview
 
-| Client | Gearbox Protocol |
-| :------------- | :---------------------------------------------- |
 | Title | Smart Contract Review |
 | Target | CDPVault |
 | Version | 1.0 |
